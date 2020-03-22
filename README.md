@@ -1,7 +1,5 @@
 # 计算机电子书资源
 
-[TOC]
-
 ### C语言篇
 
 - C语言程序设计(第四版)谭浩强   [百度云链接](https://pan.baidu.com/s/1LTt15TsDYKDnic1MBQndPA)   提取码: 4pu4
