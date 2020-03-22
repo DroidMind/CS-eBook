@@ -1,6 +1,6 @@
 # 计算机电子书资源
 
-#### C语言篇
+### C语言篇
 ##### 1、C语言程序设计(第四版)谭浩强
 
 链接: https://pan.baidu.com/s/1LTt15TsDYKDnic1MBQndPA 提取码: 4pu4
@@ -65,7 +65,7 @@
 
 链接: https://pan.baidu.com/s/1QR26ZEebeA7HKSJAi5CsBQ 提取码: qx6p
 
-#### C++篇
+### C++篇
 
 ##### 1、C++程序设计（第二版）-谭浩强
 
@@ -196,7 +196,7 @@
 链接: https://pan.baidu.com/s/11vR8NAT24Af_jK_Sdc6C-g 提取码: vs6b
 
 
-#### 数据结构
+### 数据结构
 
 ##### 1、数据结构与算法分析—C语言描述
 
