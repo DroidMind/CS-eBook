@@ -67,6 +67,9 @@
 
 链接: https://pan.baidu.com/s/1QR26ZEebeA7HKSJAi5CsBQ 提取码: qx6p
 
+
+
+
 ### C++篇
 
 ##### 1、C++程序设计（第二版）-谭浩强
@@ -198,7 +201,7 @@
 链接: https://pan.baidu.com/s/11vR8NAT24Af_jK_Sdc6C-g 提取码: vs6b
 
 
-### 数据结构
+### 数据结构和算法
 
 ##### 1、数据结构与算法分析—C语言描述
 
@@ -212,8 +215,30 @@
 
 链接: https://pan.baidu.com/s/1JIBBHtxc2ZiKbV_jF-RDug 提取码: arxi 
 
+<ul>
+<li>挑战程序设计竞赛       <a href="https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ" rel="nofollow">百度云下载链接</a>  密码:mxn7</li>
+<li>Java数据结构和算法     <a href="https://pan.baidu.com/s/1vD9CQVwnWMfqSaEmn8Dudw" rel="nofollow">百度云下载链接</a> 密码:lpym</li>
+<li>算法图解   <a href="https://pan.baidu.com/s/1NFiwO-_Kzt-VxXxxteRCTA" rel="nofollow">百度云下载链接</a> 密码:7osf</li>
+<li>算法导论     <a href="https://pan.baidu.com/s/1WHmnchIdy0FvMWLImPoIhQ" rel="nofollow">百度云下载链接</a>  密码:p2tp</li>
+<li>算法第四版       <a href="https://pan.baidu.com/s/1WEliUJ_hQhl-OzWPtXcFdQ" rel="nofollow">百度云下载链接</a> 密码:rixw</li>
+<li>数据结构与算法分析C语言描述版       <a href="https://pan.baidu.com/s/1v4OsTTCd5SyC4WGarHZdcA" rel="nofollow">百度云下载链接</a>  密码:mn10</li>
+<li>数据结构与算法分析Java语言描述版       <a href="https://pan.baidu.com/s/1hZGhkErn9Bc17ZnN_ilgAw" rel="nofollow">百度云下载链接</a>  密码:917n</li>
+<li>数据结构与算法 Python语言描述_裘宗燕       <a href="https://pan.baidu.com/s/1VjlQugLPIiN91bmISkJ3xg" rel="nofollow">百度云下载链接</a>  密码:96gw</li>
+<li>剑指offer       <a href="https://pan.baidu.com/s/1lUs2fVqxNMK8OOUrVSBCmw" rel="nofollow">百度云下载链接</a>  密码:a4rt</li>
+<li>计算机程序设计艺术1-3卷       <a href="https://pan.baidu.com/s/1rxEqkKAogFpy1aNQnXUyBw" rel="nofollow">百度云下载链接</a>  密码:i3nh</li>
+<li>大话数据结构       <a href="https://pan.baidu.com/s/1fTxelwIZa8pBmdnMW8PFYg" rel="nofollow">百度云下载链接</a>  密码:np2o</li>
+<li>程序员代码面试指南：IT 名企算法与数据结构题目最优解       <a href="https://pan.baidu.com/s/1DhjBLEiORLRTiffpJnJq_g" rel="nofollow">百度云下载链接</a>  密码:20oh</li>
+<li>编程珠玑       <a href="https://pan.baidu.com/s/1ix17W5-CG4r5Wn8bF3erVQ" rel="nofollow">百度云下载链接</a>  密码:4oow</li>
+<li>编程之美       <a href="https://pan.baidu.com/s/1y8SWiLipsKEzCulyxdbgGQ" rel="nofollow">百度云下载链接</a>  密码:4zme</li>
+<li>啊哈算法       <a href="https://pan.baidu.com/s/1S6OTJlQtywaRvu4IA_ogCw" rel="nofollow">百度云下载链接</a>  密码:h4id</li>
+<li>程序员的算法趣题       <a href="https://pan.baidu.com/s/1iIHm0kRlfwck3IQn-BUZZA" rel="nofollow">百度云下载链接</a>  密码:kk84</li>
+</ul>
+
+
+
+
 ### 说明
-1、未完待续，持续更新，欢迎关注
+1、未完待续，持续更新，欢迎关注     
 2、电子版仅供预览及学习交流使用，支持正版，喜欢的请购买正版书。
 
 ### 免责声明
